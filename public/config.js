@@ -2,7 +2,8 @@ window.Config = {
 
   // 显示标题
   SiteName: 'dongkcs 站点监测',
-
+  
+  ApiDomain: 'https://bold-poetry-bd03.dongkcs.workers.dev/',
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
