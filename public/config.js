@@ -3,7 +3,7 @@ window.Config = {
   // 显示标题
   SiteName: 'dongkcs 站点监测',
 
-  SiteUrl: 'https://effulgent-bunny-4a3d7d.netlify.app/',
+  SiteUrl: '/',
   
   ApiDomain: 'https://bold-poetry-bd03.dongkcs.workers.dev/',
   
